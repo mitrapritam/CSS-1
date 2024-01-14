@@ -1,0 +1,37 @@
+.sub{
+    width: 252px;
+    height: 388px;
+    background-color: #FFFFFF
+}
+
+.main .save span{
+    width: 80px;
+    height: 25px;
+    display: inline-block;
+    font-size: 15px;
+    background-color: #6E2594;
+    color: white;
+    border-radius: 0 20px 20px 0;
+}
+
+.main .img{
+    text-align: center;
+    vertical-align: middle;
+}
+
+.details a{
+    font-weight: bold;
+}
+
+.price .price-new{
+    color: #ef4a23;
+    line-height: 22px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.price .price-old{
+    text-decoration: line-through;
+    font-size: small;
+    text-align: center;
+}
